@@ -7,7 +7,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -29,14 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile Version](https://www.flickr.com/gp/awodzicki/395T5z)
-![Website Version](https://www.flickr.com/gp/awodzicki/89LD0D)
+![Mobile Version](SocialProofMobileScreenshot.png)
+![Website Version](SocialProofDesktopScreenshot.png)
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 - I used a mobile-first approach to start this project. I started with the HTML5 markup and created some base layout styles in css. I focused on general font size, weight, and colors. Then I worked my way down the page on aligning text and changing background colors on the top portion of the page. I focused padding to make each element look like the picture. After each element was correctly colored and individually styled, I added larger margins for the top of the page and other larger spaces on the page.
